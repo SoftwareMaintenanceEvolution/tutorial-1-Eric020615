@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm currently a **Software Engineering student** with a passion for learning and building innovative solutions. I'm excited to share my projects, contributions, and journey as I grow my skills in software development.
 
+![mickey](https://github.com/user-attachments/assets/9aaa6a0a-e68d-4096-90c2-7178be9a79ce)
+
 ## 📖 About Me
 - 🎓 **Software Engineering student** with a focus on web and mobile development.
 - 🌱 Currently learning about **full-stack development**, **cloud computing**, and **software design patterns**.
